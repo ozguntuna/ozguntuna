@@ -51,6 +51,7 @@ Hi,I'm Ozgun from Turkey.I'm an Electrical-Electronics Engineer,besides that , I
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
 </a>
 <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166164354-03040d70-39ed-4fca-a951-dbdcc7f29c4d.png" width="50" height="50" alt="Numpy" /></a><br/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" width="50" alt="pycharm logo"  />
 </div>  
 
 </td><td valign="top" width="25%">
