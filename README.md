@@ -9,11 +9,8 @@ Hi,I'm Ozgun from Turkey.I'm an Electrical-Electronics Engineer,besides that , I
 
 - ✉️ You can contact me at ozgun2091@gmail.com  
   
-
-- ⚡I'm focused on python and flutter.  
   
 
-  
   
 
 <br/>  
