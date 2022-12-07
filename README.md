@@ -48,7 +48,9 @@ Hi,I'm Ozgun from Turkey.I'm an Electrical-Electronics Engineer,besides that , I
 ### Computer Verison  
 <div align="center">  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
+</a>
+<a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166164354-03040d70-39ed-4fca-a951-dbdcc7f29c4d.png" width="36" height="36" alt="Numpy" /></a><br/>  
 </div>  
 
 </td><td valign="top" width="33%">
