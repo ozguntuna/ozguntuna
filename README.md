@@ -20,7 +20,6 @@ Hi,I'm Ozgun from Turkey.I'm an Electrical-Electronics Engineer,besides that , I
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="25%">
 
 
 
